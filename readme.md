@@ -6,9 +6,10 @@
 
 ## ass.js
 
-(使用<https://github.com/hihkm/DanmakuFactory>xml转化为ass后)
+(使用<https://github.com/hihkm/DanmakuFactory> 将xml转化为ass后)
 
-批量处理.ass文件中的Hanser弹幕:
-    - 修改颜色
-    - 修改字号
-    - 新增下划线
+批量处理.ass文件中的Hanser弹幕:   
+    - 修改颜色  
+    - 修改字号  
+    - 新增下划线 
+    
